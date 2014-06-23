@@ -20,6 +20,7 @@ Get more info
 * Twitter: https://twitter.com/AddNodeMaster
 * Direct contact: contact@@@colacoin.info
 * IRC Channel: https://webchat.freenode.net/?channels=#ccp
+* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
 
 
 Tech Spec
