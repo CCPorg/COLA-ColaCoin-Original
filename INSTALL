@@ -1,0 +1,9 @@
+Building ColaCoin
+
+See doc/readme-qt.rst for instructions on building ColaCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ColaCoin.
+
+See doc/build-*.txt for instructions on building ColaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ColaCoin.
