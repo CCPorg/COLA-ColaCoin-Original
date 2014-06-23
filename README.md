@@ -39,7 +39,7 @@ Tech Spec
 
 Version 642 Modifications
 ========
-* Checkpoints up to block 367258
+* Checkpoints up to block **367258**
 * Added a Windows compiling IF in **crypter.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Added a Windows compiling IF in **rpcnet.cpp** source file
