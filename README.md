@@ -52,7 +52,7 @@ Get more info
 ========
 COLA-ColaCoin is provided by CCP aka Crypto Currency Preservation.  
 Thanks for reading, using and mining ColaCoins.  
-* **VGold** *
+***VGold***
 
 
 
