@@ -1,4 +1,4 @@
-ColaCoin
+COLA-ColaCoin
 ========
 ColaCoin is a scrypt ALGO based crypto coin like Litecoin but with random rewards feature from Luckycoin (random blocks) and with transaction message feature from Florincoin (transaction message).
 ColaCoin is a fast and secure crypto currency ready for micro sales of goods, services payment and focused on industry specific needs.
@@ -10,17 +10,6 @@ Default Ports
 ========
 * P2P: **44555**
 * RPC: **44556**
-
-
-Get more info
-========
-* Official WEB Site: http://colacoin.info
-* Block explorer: http://explorer.colacoin.info
-* Forum: https://cryptocointalk.com/forum/792-colacoin-cola/
-* Twitter: https://twitter.com/AddNodeMaster
-* Direct contact: contact@@@colacoin.info
-* IRC Channel: https://webchat.freenode.net/?channels=#ccp
-* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
 
 
 Tech Spec
@@ -36,8 +25,6 @@ Tech Spec
 * Random reward
 
 
-
-
 Version 642 Modifications
 ========
 * Checkpoints up to block **367258**
@@ -48,10 +35,24 @@ Version 642 Modifications
 * Change the GitHub link by removing the Ver. number
 * **REWARD HAVING REMOVED**
 
+
+
+Get more info
+========
+* **Official WEB Site:** *http://vodkacoin.info*
+* **Direct contact:** *contact@@@vodkacoin.info*
+* **Twitter:** *https://twitter.com/AddNodeMaster*
+* **Block explorer:** *http://explorer.vodkacoin.info*
+* **IRC Channel:** *https://webchat.freenode.net/?channels=#ccp*
+* **Forum:** *https://cryptocointalk.com/forum/780-vodkacoin-vdc/*
+* **Facebook page:** *https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136*
+
+
+
 ========
 COLA-ColaCoin is provided by CCP aka Crypto Currency Preservation.  
 Thanks for reading, using and mining ColaCoins.  
-**VGold**
+* **VGold** *
 
 
 
