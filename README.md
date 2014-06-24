@@ -39,12 +39,12 @@ Version 642 Modifications
 
 Get more info
 ========
-* **Official WEB Site:** *http://vodkacoin.info*
-* **Direct contact:** *contact@@@vodkacoin.info*
+* **Official WEB Site:** *http://colacoin.info*
+* **Direct contact:** *contact@@@colacoin.info*
 * **Twitter:** *https://twitter.com/AddNodeMaster*
-* **Block explorer:** *http://explorer.vodkacoin.info*
+* **Block explorer:** *http://explorer.colacoin.info*
 * **IRC Channel:** *https://webchat.freenode.net/?channels=#ccp*
-* **Forum:** *https://cryptocointalk.com/forum/780-vodkacoin-vdc/*
+* **Forum:** *https://cryptocointalk.com/forum/792-colacoin-cola/*
 * **Facebook page:** *https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136*
 
 
